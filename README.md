@@ -36,3 +36,11 @@ cd codeflow
 npm install  # or pip install -r requirements.txt
 # Start the development server
 npm start  # or python manage.py runserver
+
+
+
+### Contributors
+
+- [Krixxy07](https://github.com/Krixxy07)
+- [AmanAsutosh](https://github.com/AmanAsutosh)
+- [anshumancodes](https://github.com/anshumancodes)
